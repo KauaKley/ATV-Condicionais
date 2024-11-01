@@ -1,4 +1,4 @@
-Nesse repositório há 23 questões de condicionais em Java, abaixo tem quais são as questões:
+Nesse repositório há 23 questões, uma por classe, de condicionais em Java, , abaixo tem quais são as questões:
 
 1-  Faça um programa que peça dois números e imprima o maior deles.
 
